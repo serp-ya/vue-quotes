@@ -1,9 +1,11 @@
 <template>
   <div 
-  class="col-xs-3 quote"
+  class="col-xs-3"
   @click="deleteQuote"
   >
-    {{ quote.message }}
+    <div class="quote">
+      {{ quote.message }}
+    </div>
   </div>
 </template>
 
