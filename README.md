@@ -1,3 +1,5 @@
+Github Pages demo: https://serp-ya.github.io/vue-quotes/
+
 # vue-cli
 
 > A Vue.js project
